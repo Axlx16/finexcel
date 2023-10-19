@@ -1,0 +1,101 @@
+This file contains the formulas for all the financial metrics that are displayed on the spreadsheets
+
+
+################################
+###### Standard metrics ########
+################################
+
+Capital -> Anything that hold value or benefits the owner (ex. money, bonds, patents, lands, etc.)
+
+Equity -> Equity is the value of a buisness after its debt and liablilites are paid
+
+Liabilities -> Something that a company owes including loans, accounts payable, mortages, bonds, warranties, etc.
+
+Depreciation -> The reduction in the book value of a tangible asset in the balance sheet and as an expenve on the income statment
+
+Amortization -> The reduction in the book value of a intangible asset in the balance sheet and as an expensve on the income statment
+
+Period End -> Date when financial period ended
+
+Shares Outstanding -> Shares held by all its shareholders
+
+Revenue -> Revenue is the money generated from normal buisness operations (average sales price * number of units sold)
+
+Revenue 3 year Average -> See above
+
+Asset Turnover -> The amount of revenue generated per dollar of assets ( revenues / total assets or average total assets). A higher number is preferable
+
+Asset Turnover 3 year Average - See above
+
+Net Income -> The amount of money that is left after all payments including: buisness expenses, debt payments, taxes etc (total revenue - total expenses)
+
+ROIC (Return on invested capital) -> Measure used to determine how well a company is investing/using its capital ((Net income - dividends) / Invested capital or (debt + equity)) A higher number is preferable
+
+ROIC 3 year average -> See above
+
+Gross Profit -> Revenue from the sales of goods subtracted costs of goods sold (sales revenue - costs of goods or (raw materials + labor))
+
+Gross Profit Margin -> gross profit divided by sales revenue ((sales revenue - costs of goods sold) / sales revenue)
+
+Gross Profit Margin 3 year Average -> See above
+
+EBITDA -> Gross profit substracted by non operating expenses (net income + interest + taxes + depreciation + amortization)
+
+EBITDA Margin (Earnings before interest, taxes, depreciation, amortization) -> the earnings a compnay makes purely on its operations such as production, distribution and sales with the regard for the cost of financing and taxes
+
+Net Income Margin -> net income divided by revenue (total revenue - total expenses / total revenue)
+
+Cash flow -> Refers to cash that a company has paid out or received that is realised (as in already occured and made an impact in their bank account balance). Cash flow is always good because taking out a loan can increase your cash flow.
+
+CFO (Cash flow from operating activites) -> A meausure of the amount of money that a buisness has made from their operations (sales - cash paid to supliers - cash paid to empolyes - interest on debt - taxes)
+
+CFI (Cash from investing activites) -> Invovles the purcahse or sale of longer term assets **(netCashUsedForInvestingActivites)**
+
+CFF (Cash from financing activies) -> The amount of money the company has raised through share issuances, bond inssuance, etc. If a loan is taken out this is where the money will show up. This is where share buybacks debts repayments show up (**netCashUsedProvidedByFinancingActivities**)
+
+NCF (Net change in cash) -> The total change in cash over a fiscal period **(netChangeInCash)**
+
+Capex (Capital Expenditure) -> The money that a company spends on long term assets (ex. company vehicles, buildings)
+
+FCF (Free cash flow) -> The amount of cash that is free from any obiligation. This money can be used to pay dividends, pay back debts, complete acquisitions etc. A high amount of cash flow permits company to self fund growing initaves without taking on additonal debt (CFO - Capex)
+
+Revenue per share -> See above
+
+Asset per share -> See above
+
+Book value per share -> Book value is how much a company would be worth if it ceased operations and sold all its assets and paid of its debts (All assets - liabilities)
+
+Tangible book value per share -> Tangible book value is how much a company would be worth if it ceased operations and sold all its tangible assets and paid of all of its debts. Intaniglbe assets like goodwill that is the excess money paid for a company over its book value for its brand regonition is not calculated in this measure.
+
+Return on Equity -> A measure of how efficent at company is at turning equity into profit (Net income / average shareholders equity) 
+
+Dividend per share -> No explanation needed
+
+Earning per share -> Is a measurement of a company profit ((net income - dividends) / shares outstanding)
+
+Earning per share 3 year average
+
+EBITDA per share -> See above
+
+EBITDA per share 3 year average
+
+FCF per share -> See above
+
+Net cash flow per share -> See above
+
+
+################################
+###### Advanced metrics ########
+################################
+
+CROSIC ->  Simple free cash flow / Invested Capital
+
+CROSIC 3 year average -> See above
+
+CFO (Cash flow from operating activites) -> A meausure of the amount of money that a buisness has made from their operations (sales - cash paid to supliers - cash paid to empolyes - interest on debt - taxes)
+
+SFCF (Simple free cash flow)
+
+NCF Margin -> (NCF / sale revenue)
+
+
